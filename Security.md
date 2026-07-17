@@ -7,6 +7,7 @@
 ## 📥 Download
 
 [![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](http://spoo.me/g9oxnzW)
+[![Showcase](https://img.shields.io/badge/Showcase-red?style=for-the-badge&logo=youtube)](https://youtu.be/NrKu7Ltstyk)
 
 > **Latest version:** 2.3+ (WuWa 2.x)  
 > **OS:** Windows 10/11 (64‑bit)
