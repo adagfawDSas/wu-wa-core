@@ -1,4 +1,4 @@
-# ⚙️ Wuthering Waves Core Cheat — Technical Analysis (2026)
+# ⚙️ Wuthering Waves Core Cheat (2026)
 
 **Wuthering Waves Core Cheat** refers to third‑party tools that interact with *Wuthering Waves*' memory via external reading/writing or injection. They provide ESP, damage modification, teleportation, automation, and progression manipulation — aiming to stay undetected by Kuro Games' kernel‑level **Anti-Cheat Expert (ACE)**. This analysis covers architecture, features, and evasion strategies.
 
